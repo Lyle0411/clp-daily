@@ -9,7 +9,7 @@ max_results: 10
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
 json_readme_path: './docs/clp-daily.json'
