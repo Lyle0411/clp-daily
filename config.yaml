@@ -22,5 +22,17 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "CLP":
-        filters: ["Code failure analysis", "troubleshooting"]
+    "CR":
+        filters: ["Code Review Automate", "Code Review"]
+    "TDM":
+        filters: ["Technical Debt Management Automate", "Technical Debt Management"]
+    "CS":
+        filters: ["Code Smell Automate", "Code Smell"]
+    "SCA":
+        filters: ["Static Code Analysis Automate", "Static Code Analysis"]
+    "DCA":
+        filters: ["Dynamic Code Analysis Automate", "Dynamic Code Analysis" ]
+    "CCC":
+        filters: ["Code Compliance Checking Automate","Code Compliance Checking"]
+
+
