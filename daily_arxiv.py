@@ -84,7 +84,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query="slam", max_results=2, id_list = [], dict_mod = False):
     """
     @param topic: str
     @param query: str
@@ -93,11 +93,19 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
-    search_engine = arxiv.Search(
-        query = query,
-        max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
-    )
+    content_dict = dict()
+    if id_list:
+        search_engine = arxiv.Search(
+            id_list=id_list,
+            max_results=max_results,
+            sort_by=arxiv.SortCriterion.SubmittedDate
+        )
+    else:
+        search_engine = arxiv.Search(
+            query=query,
+            max_results=max_results,
+            sort_by=arxiv.SortCriterion.SubmittedDate
+        )
 
     for result in search_engine.results():
 
@@ -112,6 +120,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
+
+
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
@@ -153,12 +163,30 @@ def get_daily_papers(topic,query="slam", max_results=2):
             else:
                 content_to_web[paper_key] += f"\n"
 
+            if dict_mod:
+                content_dict[paper_key] = {
+                    "paper_id": paper_id,
+                    "paper_title": paper_title,
+                    "paper_url": paper_url,
+                    "code_url": code_url,
+                    "paper_abstract": paper_abstract,
+                    "paper_authors": paper_authors,
+                    "paper_first_author": paper_first_author,
+                    "primary_category": primary_category,
+                    "publish_time": publish_time,
+                    "update_time": update_time,
+                    "comments": comments
+                }
+
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
 
-    data = {topic:content}
-    data_web = {topic:content_to_web}
-    return data,data_web
+    if dict_mod:
+        return {topic: content_dict}
+    else:
+        data = {topic:content}
+        data_web = {topic:content_to_web}
+        return data,data_web
 
 def update_paper_links(filename):
     '''

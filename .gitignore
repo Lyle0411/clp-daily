@@ -1,6 +1,9 @@
 CMakeLists.txt.user
 CMakeLists_modified.txt
 
+.env
+docs/record.csv
+summary.py
 
 build/
 
