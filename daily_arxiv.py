@@ -216,7 +216,9 @@ def update_paper_links(filename):
             for paper_id,contents in v.items():
                 contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+                try:
+                    update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+                except: continue
 
                 contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
                 json_data[keywords][paper_id] = str(contents)
@@ -463,7 +465,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
-    parser.add_argument('--update_paper_links', default=False,
+    parser.add_argument('--update_paper_links', default=True,
                         action="store_true",help='whether to update paper links etc.')
     args = parser.parse_args()
     config = load_config(args.config_path)
