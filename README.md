@@ -1,4 +1,4 @@
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2025-02-28**|**Measuring Determinism in Large Language Models for Software Code Review**|Eugene Klishevich et.al.|[2502.20747](http://arxiv.org/abs/2502.20747)|null|
 |**2025-02-24**|**Refactoring Detection in C++ Programs with RefactoringMiner++**|Benjamin Ritz et.al.|[2502.17716](http://arxiv.org/abs/2502.17716)|**[link](https://github.com/benzoinoo/RefactoringMinerPP)**|
 |**2025-02-21**|**Accountability in Code Review: The Role of Intrinsic Drivers and the Impact of LLMs**|Adam Alami et.al.|[2502.15963](http://arxiv.org/abs/2502.15963)|null|
-|**2025-02-10**|**Combining Large Language Models with Static Analyzers for Code Review Generation**|Imen Jaoua et.al.|[2502.06633](http://arxiv.org/abs/2502.06633)|null|
+|**2025-02-10**|**Combining Large Language Models with Static Analyzers for Code Review Generation**|Imen Jaoua et.al.|[2502.06633](http://arxiv.org/abs/2502.06633)|**[link](https://github.com/imenjaoua/hybrid-code-review)**|
 |**2025-02-07**|**How Do Developers Use Code Suggestions in Pull Request Reviews?**|Abir Bouraffa et.al.|[2502.04835](http://arxiv.org/abs/2502.04835)|**[link](https://github.com/abiUni/chase25_replication-package)**|
 |**2025-02-05**|**Harnessing Large Language Models for Curated Code Reviews**|Oussama Ben Sghaier et.al.|[2502.03425](http://arxiv.org/abs/2502.03425)|**[link](https://github.com/OussamaSghaier/CuREV)**|
 |**2025-02-06**|**Too Noisy To Learn: Enhancing Data Quality for Code Review Comment Generation**|Chunhua Liu et.al.|[2502.02757](http://arxiv.org/abs/2502.02757)|null|
@@ -220,7 +220,7 @@
 |**2022-01-18**|**Using Pre-Trained Models to Boost Code Review Automation**|Rosalia Tufano et.al.|[2201.06850](http://arxiv.org/abs/2201.06850)|**[link](https://github.com/rosaliatufano/code_review_automation)**|
 |**2021-01-29**|**LightSys: Lightweight and Efficient CI System for Improving Integration Speed of Software**|Geunsik Lim et.al.|[2101.07961](http://arxiv.org/abs/2101.07961)|**[link](https://github.com/nnstreamer/TAOS-CI)**|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## TDM
 
@@ -246,7 +246,7 @@
 |**2018-02-08**|**Gamification: a Game Changer for Managing Technical Debt? A Design Study**|Matthieu Foucault et.al.|[1802.02693](http://arxiv.org/abs/1802.02693)|null|
 |**2016-09-22**|**An Analysis of Technical Debt Management Through Resources Allocation Policies in Software Maintenance Process**|Eduardo Ferreira Franco et.al.|[1609.06868](http://arxiv.org/abs/1609.06868)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## CS
 
@@ -397,7 +397,7 @@
 |**2013-06-04**|**Detecting Missing Method Calls as Violations of the Majority Rule**|Martin Monperrus et.al.|[1306.0762](http://arxiv.org/abs/1306.0762)|null|
 |**2012-04-29**|**An Eclipse Plugin to Support Code Smells Detection**|Tiago Pessoa et.al.|[1204.6492](http://arxiv.org/abs/1204.6492)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## SCA
 
@@ -477,7 +477,7 @@
 |**2011-02-07**|**Applying static code analysis to firewall policies for the purpose of anomaly detection**|Vadim Zaliva et.al.|[1102.1237](http://arxiv.org/abs/1102.1237)|null|
 |**2011-11-06**|**The use of machine learning with signal- and NLP processing of source code to fingerprint, detect, and classify vulnerabilities and weaknesses with MARFCAT**|Serguei A. Mokhov et.al.|[1010.2511](http://arxiv.org/abs/1010.2511)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## DCA
 
@@ -492,7 +492,7 @@
 |**2017-09-11**|**Privacy Loss in Apple's Implementation of Differential Privacy on MacOS 10.12**|Jun Tang et.al.|[1709.02753](http://arxiv.org/abs/1709.02753)|null|
 |**2014-10-28**|**Enter Sandbox: Android Sandbox Comparison**|Sebastian Neuner et.al.|[1410.7749](http://arxiv.org/abs/1410.7749)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## CCC
 
@@ -504,7 +504,7 @@
 |**2021-12-20**|**IFC models for (semi)automating common planning checks for building permits**|Francesca Noardo et.al.|[2011.03117](http://arxiv.org/abs/2011.03117)|null|
 |**2019-10-01**|**Towards French Smart Building Code: Compliance Checking Based on Semantic Rules**|Nicolas Bus et.al.|[1910.00334](http://arxiv.org/abs/1910.00334)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
