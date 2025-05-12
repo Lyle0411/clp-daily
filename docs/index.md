@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CR
@@ -22,7 +22,7 @@ layout: default
 |**2025-02-28**|**Measuring Determinism in Large Language Models for Software Code Review**|Eugene Klishevich et.al.|[2502.20747](http://arxiv.org/abs/2502.20747)|null|
 |**2025-02-24**|**Refactoring Detection in C++ Programs with RefactoringMiner++**|Benjamin Ritz et.al.|[2502.17716](http://arxiv.org/abs/2502.17716)|**[link](https://github.com/benzoinoo/RefactoringMinerPP)**|
 |**2025-02-21**|**Accountability in Code Review: The Role of Intrinsic Drivers and the Impact of LLMs**|Adam Alami et.al.|[2502.15963](http://arxiv.org/abs/2502.15963)|null|
-|**2025-02-10**|**Combining Large Language Models with Static Analyzers for Code Review Generation**|Imen Jaoua et.al.|[2502.06633](http://arxiv.org/abs/2502.06633)|null|
+|**2025-02-10**|**Combining Large Language Models with Static Analyzers for Code Review Generation**|Imen Jaoua et.al.|[2502.06633](http://arxiv.org/abs/2502.06633)|**[link](https://github.com/imenjaoua/hybrid-code-review)**|
 |**2025-02-07**|**How Do Developers Use Code Suggestions in Pull Request Reviews?**|Abir Bouraffa et.al.|[2502.04835](http://arxiv.org/abs/2502.04835)|**[link](https://github.com/abiUni/chase25_replication-package)**|
 |**2025-02-05**|**Harnessing Large Language Models for Curated Code Reviews**|Oussama Ben Sghaier et.al.|[2502.03425](http://arxiv.org/abs/2502.03425)|**[link](https://github.com/OussamaSghaier/CuREV)**|
 |**2025-02-06**|**Too Noisy To Learn: Enhancing Data Quality for Code Review Comment Generation**|Chunhua Liu et.al.|[2502.02757](http://arxiv.org/abs/2502.02757)|null|
