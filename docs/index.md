@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.19
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CR
