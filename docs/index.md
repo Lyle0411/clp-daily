@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CR
@@ -26,7 +26,7 @@ layout: default
 |**2025-02-07**|**How Do Developers Use Code Suggestions in Pull Request Reviews?**|Abir Bouraffa et.al.|[2502.04835](http://arxiv.org/abs/2502.04835)|**[link](https://github.com/abiUni/chase25_replication-package)**|
 |**2025-02-05**|**Harnessing Large Language Models for Curated Code Reviews**|Oussama Ben Sghaier et.al.|[2502.03425](http://arxiv.org/abs/2502.03425)|**[link](https://github.com/OussamaSghaier/CuREV)**|
 |**2025-02-06**|**Too Noisy To Learn: Enhancing Data Quality for Code Review Comment Generation**|Chunhua Liu et.al.|[2502.02757](http://arxiv.org/abs/2502.02757)|null|
-|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|**[link](https://github.com/purcl/repoaudit)**|
 |**2025-01-25**|**BitsAI-CR: Automated Code Review via LLM in Practice**|Tao Sun et.al.|[2501.15134](http://arxiv.org/abs/2501.15134)|null|
 |**2025-01-21**|**Directional Diffusion-Style Code Editing Pre-training**|Qingyuan Liang et.al.|[2501.12079](http://arxiv.org/abs/2501.12079)|null|
 |**2025-01-10**|**CodEv: An Automated Grading Framework Leveraging Large Language Models for Consistent and Constructive Feedback**|En-Qi Tseng et.al.|[2501.10421](http://arxiv.org/abs/2501.10421)|null|
