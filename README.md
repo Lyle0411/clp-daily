@@ -1,4 +1,4 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -220,7 +220,7 @@
 |**2022-01-18**|**Using Pre-Trained Models to Boost Code Review Automation**|Rosalia Tufano et.al.|[2201.06850](http://arxiv.org/abs/2201.06850)|**[link](https://github.com/rosaliatufano/code_review_automation)**|
 |**2021-01-29**|**LightSys: Lightweight and Efficient CI System for Improving Integration Speed of Software**|Geunsik Lim et.al.|[2101.07961](http://arxiv.org/abs/2101.07961)|**[link](https://github.com/nnstreamer/TAOS-CI)**|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## TDM
 
@@ -246,7 +246,7 @@
 |**2018-02-08**|**Gamification: a Game Changer for Managing Technical Debt? A Design Study**|Matthieu Foucault et.al.|[1802.02693](http://arxiv.org/abs/1802.02693)|null|
 |**2016-09-22**|**An Analysis of Technical Debt Management Through Resources Allocation Policies in Software Maintenance Process**|Eduardo Ferreira Franco et.al.|[1609.06868](http://arxiv.org/abs/1609.06868)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## CS
 
@@ -262,7 +262,7 @@
 |**2025-01-18**|**How Propense Are Large Language Models at Producing Code Smells? A Benchmarking Study**|Alejandro Velasco et.al.|[2412.18989](http://arxiv.org/abs/2412.18989)|null|
 |**2025-01-07**|**Helping LLMs Improve Code Generation Using Feedback from Testing and Static Analysis**|Greta Dolcetti et.al.|[2412.14841](http://arxiv.org/abs/2412.14841)|null|
 |**2024-12-18**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Method-Level Code Smell Detection**|Beiqi Zhang et.al.|[2412.13801](http://arxiv.org/abs/2412.13801)|**[link](https://github.com/mabelqi/peft4csd)**|
-|**2024-11-28**|**Characterizing JavaScript Security Code Smells**|Vikas Kambhampati et.al.|[2411.19358](http://arxiv.org/abs/2411.19358)|null|
+|**2024-11-28**|**Characterizing JavaScript Security Code Smells**|Vikas Kambhampati et.al.|[2411.19358](http://arxiv.org/abs/2411.19358)|**[link](https://github.com/nyit-vancouver/JavaScriptSecurityCodeSmells)**|
 |**2024-11-08**|**Benefits and Risks of Using ChatGPT4 as a Teaching Assistant for Computer Science Students**|Yaiza Aragonés-Soria et.al.|[2411.16690](http://arxiv.org/abs/2411.16690)|null|
 |**2024-11-15**|**Comparing Robustness Against Adversarial Attacks in Code Generation: LLM-Generated vs. Human-Written**|Md Abdul Awal et.al.|[2411.10565](http://arxiv.org/abs/2411.10565)|null|
 |**2024-11-04**|**An Empirical Study on the Code Refactoring Capability of Large Language Models**|Jonathan Cordeiro et.al.|[2411.02320](http://arxiv.org/abs/2411.02320)|null|
@@ -397,7 +397,7 @@
 |**2013-06-04**|**Detecting Missing Method Calls as Violations of the Majority Rule**|Martin Monperrus et.al.|[1306.0762](http://arxiv.org/abs/1306.0762)|null|
 |**2012-04-29**|**An Eclipse Plugin to Support Code Smells Detection**|Tiago Pessoa et.al.|[1204.6492](http://arxiv.org/abs/1204.6492)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## SCA
 
@@ -477,7 +477,7 @@
 |**2011-02-07**|**Applying static code analysis to firewall policies for the purpose of anomaly detection**|Vadim Zaliva et.al.|[1102.1237](http://arxiv.org/abs/1102.1237)|null|
 |**2011-11-06**|**The use of machine learning with signal- and NLP processing of source code to fingerprint, detect, and classify vulnerabilities and weaknesses with MARFCAT**|Serguei A. Mokhov et.al.|[1010.2511](http://arxiv.org/abs/1010.2511)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## DCA
 
@@ -492,7 +492,7 @@
 |**2017-09-11**|**Privacy Loss in Apple's Implementation of Differential Privacy on MacOS 10.12**|Jun Tang et.al.|[1709.02753](http://arxiv.org/abs/1709.02753)|null|
 |**2014-10-28**|**Enter Sandbox: Android Sandbox Comparison**|Sebastian Neuner et.al.|[1410.7749](http://arxiv.org/abs/1410.7749)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## CCC
 
@@ -504,7 +504,7 @@
 |**2021-12-20**|**IFC models for (semi)automating common planning checks for building permits**|Francesca Noardo et.al.|[2011.03117](http://arxiv.org/abs/2011.03117)|null|
 |**2019-10-01**|**Towards French Smart Building Code: Compliance Checking Based on Semantic Rules**|Nicolas Bus et.al.|[1910.00334](http://arxiv.org/abs/1910.00334)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
