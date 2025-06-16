@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## CR
@@ -249,7 +249,7 @@ layout: default
 |**2025-01-18**|**How Propense Are Large Language Models at Producing Code Smells? A Benchmarking Study**|Alejandro Velasco et.al.|[2412.18989](http://arxiv.org/abs/2412.18989)|null|
 |**2025-01-07**|**Helping LLMs Improve Code Generation Using Feedback from Testing and Static Analysis**|Greta Dolcetti et.al.|[2412.14841](http://arxiv.org/abs/2412.14841)|null|
 |**2024-12-18**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Method-Level Code Smell Detection**|Beiqi Zhang et.al.|[2412.13801](http://arxiv.org/abs/2412.13801)|**[link](https://github.com/mabelqi/peft4csd)**|
-|**2024-11-28**|**Characterizing JavaScript Security Code Smells**|Vikas Kambhampati et.al.|[2411.19358](http://arxiv.org/abs/2411.19358)|null|
+|**2024-11-28**|**Characterizing JavaScript Security Code Smells**|Vikas Kambhampati et.al.|[2411.19358](http://arxiv.org/abs/2411.19358)|**[link](https://github.com/nyit-vancouver/JavaScriptSecurityCodeSmells)**|
 |**2024-11-08**|**Benefits and Risks of Using ChatGPT4 as a Teaching Assistant for Computer Science Students**|Yaiza Aragonés-Soria et.al.|[2411.16690](http://arxiv.org/abs/2411.16690)|null|
 |**2024-11-15**|**Comparing Robustness Against Adversarial Attacks in Code Generation: LLM-Generated vs. Human-Written**|Md Abdul Awal et.al.|[2411.10565](http://arxiv.org/abs/2411.10565)|null|
 |**2024-11-04**|**An Empirical Study on the Code Refactoring Capability of Large Language Models**|Jonathan Cordeiro et.al.|[2411.02320](http://arxiv.org/abs/2411.02320)|null|
