@@ -1,4 +1,4 @@
-> Updated on 2025.12.08
+> Updated on 2025.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -218,7 +218,7 @@
 - 2022-01-18, **Using Pre-Trained Models to Boost Code Review Automation**, Rosalia Tufano et.al., Paper: [http://arxiv.org/abs/2201.06850](http://arxiv.org/abs/2201.06850), Code: **[https://github.com/rosaliatufano/code_review_automation](https://github.com/rosaliatufano/code_review_automation)**
 - 2021-01-29, **LightSys: Lightweight and Efficient CI System for Improving Integration Speed of Software**, Geunsik Lim et.al., Paper: [http://arxiv.org/abs/2101.07961](http://arxiv.org/abs/2101.07961), Code: **[https://github.com/nnstreamer/TAOS-CI](https://github.com/nnstreamer/TAOS-CI)**
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## TDM
 
@@ -242,7 +242,7 @@
 - 2018-02-08, **Gamification: a Game Changer for Managing Technical Debt? A Design Study**, Matthieu Foucault et.al., Paper: [http://arxiv.org/abs/1802.02693](http://arxiv.org/abs/1802.02693)
 - 2016-09-22, **An Analysis of Technical Debt Management Through Resources Allocation Policies in Software Maintenance Process**, Eduardo Ferreira Franco et.al., Paper: [http://arxiv.org/abs/1609.06868](http://arxiv.org/abs/1609.06868)
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## CS
 
@@ -390,7 +390,7 @@
 - 2013-06-04, **Detecting Missing Method Calls as Violations of the Majority Rule**, Martin Monperrus et.al., Paper: [http://arxiv.org/abs/1306.0762](http://arxiv.org/abs/1306.0762)
 - 2012-04-29, **An Eclipse Plugin to Support Code Smells Detection**, Tiago Pessoa et.al., Paper: [http://arxiv.org/abs/1204.6492](http://arxiv.org/abs/1204.6492)
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## SCA
 
@@ -468,7 +468,7 @@
 - 2011-02-07, **Applying static code analysis to firewall policies for the purpose of anomaly detection**, Vadim Zaliva et.al., Paper: [http://arxiv.org/abs/1102.1237](http://arxiv.org/abs/1102.1237)
 - 2011-11-06, **The use of machine learning with signal- and NLP processing of source code to fingerprint, detect, and classify vulnerabilities and weaknesses with MARFCAT**, Serguei A. Mokhov et.al., Paper: [http://arxiv.org/abs/1010.2511](http://arxiv.org/abs/1010.2511)
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## DCA
 
@@ -481,7 +481,7 @@
 - 2017-09-11, **Privacy Loss in Apple's Implementation of Differential Privacy on MacOS 10.12**, Jun Tang et.al., Paper: [http://arxiv.org/abs/1709.02753](http://arxiv.org/abs/1709.02753)
 - 2014-10-28, **Enter Sandbox: Android Sandbox Comparison**, Sebastian Neuner et.al., Paper: [http://arxiv.org/abs/1410.7749](http://arxiv.org/abs/1410.7749)
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 ## CCC
 
@@ -491,7 +491,7 @@
 - 2021-12-20, **IFC models for (semi)automating common planning checks for building permits**, Francesca Noardo et.al., Paper: [http://arxiv.org/abs/2011.03117](http://arxiv.org/abs/2011.03117)
 - 2019-10-01, **Towards French Smart Building Code: Compliance Checking Based on Semantic Rules**, Nicolas Bus et.al., Paper: [http://arxiv.org/abs/1910.00334](http://arxiv.org/abs/1910.00334)
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
